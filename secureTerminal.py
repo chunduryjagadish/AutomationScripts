@@ -56,7 +56,7 @@ for child in root:
         #     applescript.tell.app('Terminal', 'do script "' + 'sshpass -p ' + passwd + ' ssh ' + user + '@' + hostIp + '"')
         # elif protocol =="Telnet":
         #     applescript.tell.app('Terminal', 'do script "' + 'telnet ' + hostIp + '"')
-
+# Testing git changes
 #     for key, value in root[0].attrib.items():
 #         device = root[0].attrib["SessionName"]
 #         hostIp = root[0].attrib["Host"]
